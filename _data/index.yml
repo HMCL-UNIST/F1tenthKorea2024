@@ -1,0 +1,18 @@
+# Index data
+main_title: "The 3rd F1Tenth Korea Championship"
+
+conference: "The International Conference on Control, Automation, and Systems (ICCAS) 2024"
+conference_url: "https://2024.iccas.org/"
+
+date: "2024, Oct 29th - Nov 1st"
+
+location: "Jeju Shinhwa World at Jeju, Korea"
+location_url: "https://maps.app.goo.gl/kbycH49DZiQCBifYA" 
+
+# Navigation bar icon urls
+twitter: "https://twitter.com/f1tenth"
+website: "https://f1tenth.org/"
+mailto: "mailto:f1tenth.korea@gmail.com"
+discourse: "https://f1tenth.discourse.group/t/iros-2021-f1tenth-competition/36"
+slack: "https://join.slack.com/t/f1tenthxkorea/shared_invite/zt-1ibqf5yjq-CkG_z1XRhsZgBsCoSy7JiA"
+github: "https://github.com/f1tenth"

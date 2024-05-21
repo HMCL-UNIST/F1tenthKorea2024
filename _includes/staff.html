@@ -1,0 +1,48 @@
+<div class="box alt">
+    {% for profile in site.data.staff %}
+
+    {% if profile.first_elements %}
+    <div class="row gtr-50 gtr-uniform">
+    {% endif %}
+        
+    <div class="col-sm-6 col-md-4 col-lg-3 mt-4">
+        <div class="card">
+            <img class="card-img-top" src="../{{ profile.image }}" style="height: 17rem;">
+            <div class="card-block">
+                {% if page.language == 'ko-KR' %}
+                <h4 class="card-title">{{ profile.name.ko-KR }}</h4>
+                <div class="meta">
+                    <a href="mailto:{{ profile.email }}" class="icon solid solo fa-light fa-envelope"><span class="label">Email</span></a>
+                    <a>  </a>
+                    <a href="{{ profile.website }}" class="icon solid solo fa-light fa-globe"><span class="label">Email</span></a>
+                </div>
+                <div class="card-text">
+                    <b>{{ profile.position.ko-KR }}</b><br>
+                    {{ profile.company.ko-KR }}<br>
+                    {{ profile.department.ko-KR }}<br>
+                    {{ profile.extra_info.ko-KR }}
+                </div>
+                {% elsif page.language == 'en-US' %}
+                <h4 class="card-title">{{ profile.name.en-US }}</h4>
+                <div class="meta">
+                    <a href="mailto:{{ profile.email }}" class="icon solid solo fa-light fa-envelope"><span class="label">Email</span></a>
+                    <a>  </a>
+                    <a href="{{ profile.website }}" class="icon solid solo fa-light fa-globe"><span class="label">Email</span></a>
+                </div>
+                <div class="card-text">
+                    <b>{{ profile.position.en-US }}</b><br>
+                    {{ profile.company.en-US }}<br>
+                    {{ profile.department.en-US }}<br>
+                    {{ profile.extra_info.en-US }}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% if profile.last_elements %}
+		</div>
+        <br>
+	{% endif %}
+    {% endfor %}
+</div>
+

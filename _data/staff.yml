@@ -1,0 +1,47 @@
+-
+  name:
+    ko-KR: "최윤도"
+    en-US: "Yundo Choi"
+  company:
+    ko-KR: "경북대학교"
+    en-US: "Kyongpook National University"
+  department:
+    ko-KR: "컴퓨터학부"
+    en-US: "Department of Computer Science"
+  position:
+    ko-KR: "석사 과정"
+    en-US: "Master Student"
+  email: "ydchoi97@knu.ac.kr"
+  image: "images/staff/최윤도.jpg"
+  first_elements: true
+-
+  name:
+    ko-KR: "김지원"
+    en-US: "Jiwon Kim"
+  company:
+    ko-KR: "경상국립대학교"
+    en-US: "Gyeongsang National University"
+  department:
+    ko-KR: "지능형통신공학과"
+    en-US: "Department of Artificial Intelligence & Communication Engineering"
+  position:
+    ko-KR: "학부 과정"
+    en-US: "Undergraduate Student"
+  email: "kimjiwon656@gmail.com"
+  image: "images/staff/김지원.jpg"
+-
+  name:
+    ko-KR: "조형래"
+    en-US: "Hyeong Rae Cho"
+  company:
+    ko-KR: "경상국립대학교"
+    en-US: "Gyeongsang National University"
+  department:
+    ko-KR: "지능형통신공학과"
+    en-US: "Department of Artificial Intelligence & Communication Engineering"
+  position:
+    ko-KR: "학부 과정"
+    en-US: "Undergraduate Student"
+  email: "whgudfo58@gnu.ac.kr"
+  image: "images/staff/조형래.jpg"
+  last_elements: true

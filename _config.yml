@@ -1,0 +1,65 @@
+kramdown:
+  header_offset: 2
+
+navigation:
+  - about: 
+    text: "About"
+    url: "index.html"
+    section: "about"
+    display: true
+  
+  - timeline:
+    text: "Timeline"
+    url: "timeline.html"
+    section: "timeline"
+    display: true
+
+  - program:
+    text: "Program"
+    url: "program.html"
+    section: "program"
+    display: false
+
+  - race_resource: 
+    text: "Race Resource"
+    url: "race_resources.html"
+    section: "race"
+    display: true
+
+  - getting_started: 
+    text: "Getting Started"
+    url: "getting_started.html"
+    section: "getting_started"
+    display: true
+
+  - participants:
+    text: "Participants"
+    url: "participants.html"
+    section: "participants"
+    display: false
+
+  - registration:
+    text: "Registration"
+    url: "registration.html"
+    section: "registration"
+    display: true
+
+  - live_stream: 
+    text: "Live Stream"
+    url: "stream.html"
+    section: "stream"
+    display: false
+
+  - result:
+    text: "Result"
+    url: "results.html"
+    section: "result"
+    display: true
+
+  - bootcamp:
+    text: "Event"
+    url: "bootcamp.html"
+    section: "Event"
+    display: false
+
+  

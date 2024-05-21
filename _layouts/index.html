@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{{ site.data.index.main_title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>{{ site.data.index.main_title }}</h1>
+						<a href="{{ site.data.index.conference_url }}">
+							<p>{{ site.data.index.conference }}<br />
+						</a>
+						<a href="#" class="icon solid solo fa-calendar-alt"><span class="label">Calender</span></a> {{ site.data.index.date }}<br/>
+						<a href="{{ site.data.index.location_url }}" class="icon solid solo fa-globe-asia"><span class="label">Location</span></a>  {{ site.data.index.location }}</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">{{ site.data.index.main_title }}</a>
+					</header>
+
+				<!-- Nav -->
+					{% include nav.html %}
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a>{{ page.h2_title }}</a></h2>
+									<div style="text-align: left">
+										{{ page.content }}
+									</div>
+								</header>
+
+							</article>
+
+								<section class="post">
+									<header class="post">
+									</header>
+
+								<h2>Organizers:</h2>
+								{% include organizer.html %}
+								<br>
+
+								<!-- <h2>Staffs:</h2>
+								{% include staff.html %}
+								<br> -->
+
+								<h2>Sponsers:</h2>
+								<center>
+								<br>
+								<br>
+
+								<!-- <img src="../images/sponsor_gm.png" style="width: 30vw", alt="GM">
+								<br>
+								<img src="../images/sponsor_sonnetai.png" style="width: 20vw", alt="소네트AI">
+								<br>
+								<img src="../images/sponsor_KATECH.gif" style="width: 20vw", alt="KATECH">
+								<br>
+								<img src="../images/sponsor_KETI.png" style="width: 20vw", alt="KETI">
+								<br>
+								<img src="../images/sponsor_KEMCTI.png" style="width: 20vw", alt="LINC">
+								<br> -->
+
+								TBD
+								<!-- <img src="../images/sponsor_gnu.PNG" style="width: 20vw", alt="1">
+								<img src="../images/sponsor_katech.PNG" style="width: 20vw", alt="2">
+								<img src="../images/sponsor_unist.PNG" style="width: 20vw", alt="3">
+								<img src="../images/sponsor_keti.PNG" style="width: 20vw", alt="4">
+								<br>
+								<img src="../images/sponsor_kemcti.PNG" style="width: 20vw", alt="5">
+								<img src="../images/sponsor_gm.PNG" style="width: 20vw", alt="6">
+								<img src="../images/sponsor_sonnet.PNG" style="width: 20vw", alt="7"> -->
+								
+								
+								
+								
+								
+								</center>
+
+								</section>
+
+
+
+
+
+				<!-- Footer -->
+				<center class="actions">
+					<a href="{{ site.data.index.mailto }}" class="button">Contact</a>
+			  </center>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; 2022 F1TENTH Foundation All rights reserved</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.scrollex.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
