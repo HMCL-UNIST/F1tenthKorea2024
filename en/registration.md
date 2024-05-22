@@ -38,7 +38,7 @@ If you want to observe without participating in the game, please registration th
 
 # Participants
 
-If you have registered for participation but the list below is not updated, please contact us at f1tenth.korea@gmail.com.
+If you have registered for participation but the list below is not updated, please contact us at ryujs@unist.ac.kr.
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|

@@ -40,7 +40,7 @@ base_url: registration.html
 
 # 참가자
 
-만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 f1tenth.korea@gmail.com로 문의하세요.
+만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 ryujs@unist.ac.kr로 문의하세요.
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
