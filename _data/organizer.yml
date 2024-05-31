@@ -1,41 +1,38 @@
   - index: 0
     name:
-      ko-KR: "장동영<br>(조직위원장)"
-      en-US: "Dong Young Jang"
+      ko-KR: "권철현"
+      en-US: "Cheolhyeon Kwon"
     company:
-      ko-KR: "서울과학기술대학교"
-      en-US: "Seoul National University of Science and Technology"
+      ko-KR: "UNIST"
+      en-US: "UNIST"
     department: 
-      ko-KR: "MSDE학과"
-      en-US: "Department of MSDE"
+      ko-KR: "기계공학과"
+      en-US: "Department of Mechanical Engineering"
     position:
-      ko-KR: "명예교수"
-      en-US: "Emeritus Professor"
-    extra_info:
-      ko-KR: "한국전자기계융합기술원 원장"
-      en-US: "President of Korea Electronics-Machinery Convergence Technology Institute"
-    image: "images/organizer/장동영교수님.jpg"
-    website: "https://msde.seoultech.ac.kr/about_msde_/about_professor_/?togo=list&menu=2003&profidx=02224"
-    email: "dyjang@seoultech.ac.kr"
+      ko-KR: "부교수"
+      en-US: "Associate Professor"
+    image: "images/organizer/권철현교수님.png"
+    website: "https://research.unist.ac.kr/post-research/%EA%B3%A0%EC%8B%A0%EB%A2%B0-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%A0%9C%EC%96%B4-%EC%97%B0%EA%B5%AC%EC%8B%A4_%EA%B6%8C%EC%B2%A0%ED%98%84/"
+    email: "kwonc@unist.ac.kr"
     first_elements: true 
     last_elements: false
 
   - index: 1
     name:
-      ko-KR: "임묘택"
-      en-US: "Myotaeg Lim"
+      ko-KR: "배동성"
+      en-US: "Dong Sung Pae"
     company:
-      ko-KR: "고려대학교"
-      en-US: "Korea University"
+      ko-KR: "상명대학교"
+      en-US: "Sangmyung University"
     department: 
-      ko-KR: "전기전자공학과"
-      en-US: "Department of Electrical Engineering"
+      ko-KR: "소프트웨어학과"
+      en-US: "Department of Software"
     position:
-      ko-KR: "교수"
-      en-US: "Professor"
-    image: "images/organizer/임묘택교수님.jpg"
-    website: "http://cml.korea.ac.kr/"
-    email: "mlim@korea.ac.kr"
+      ko-KR: "조교수"
+      en-US: "Assistant Professor"
+    image: "images/organizer/배동성교수님.jpeg"
+    website: "https://software.smu.ac.kr/software/faculty/faculty.do?mode=view&empNo=11329735&pager.offset=0&pagerLimit=20"
+    email: "paeds915@smu.ac.kr"
     first_elements: false
     last_elements: false
 
@@ -60,25 +57,6 @@
 
   - index: 3
     name:
-      ko-KR: "Johannes Betz"
-      en-US: "Johannes Betz"
-    company:
-      ko-KR: "Technical University of Munich"
-      en-US: "Technical University of Munich"
-    department: 
-      ko-KR: "Department of Mobility Systems Engineering"
-      en-US: "Department of Mobility Systems Engineering"
-    position:
-      ko-KR: "Assistant Professor"
-      en-US: "Assistant Professor"
-    image: "images/organizer/Johannes.png"
-    website: "https://joebetz.science/"
-    email: "johannes.betz@tum.de"
-    first_elements: false
-    last_elements: true   
-
-  - index: 4
-    name:
       ko-KR: "김진현"
       en-US: "Jin Hyun Kim"
     company:
@@ -93,48 +71,10 @@
     image: "images/organizer/김진현교수님.jpg"
     website: "https://www.gnu.ac.kr/ace/pi/prfsr/selectPrfsrIntrdView.do?mi=3251&ctgrySn=1493"
     email: "jin.kim@gnu.ac.kr"
-    first_elements: true
-    last_elements: false
-
-  - index: 5
-    name:
-      ko-KR: "권철현"
-      en-US: "Cheolhyeon Kwon"
-    company:
-      ko-KR: "UNIST"
-      en-US: "UNIST"
-    department: 
-      ko-KR: "기계공학과"
-      en-US: "Department of Mechanical Engineering"
-    position:
-      ko-KR: "부교수"
-      en-US: "Associate Professor"
-    image: "images/organizer/권철현교수님.png"
-    website: "https://research.unist.ac.kr/post-research/%EA%B3%A0%EC%8B%A0%EB%A2%B0-%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%A0%9C%EC%96%B4-%EC%97%B0%EA%B5%AC%EC%8B%A4_%EA%B6%8C%EC%B2%A0%ED%98%84/"
-    email: "kwonc@unist.ac.kr"
     first_elements: false
-    last_elements: false
+    last_elements: true   
 
-  - index: 6
-    name:
-      ko-KR: "배동성"
-      en-US: "Dong Sung Pae"
-    company:
-      ko-KR: "상명대학교"
-      en-US: "Sangmyung University"
-    department: 
-      ko-KR: "소프트웨어학과"
-      en-US: "Department of Software"
-    position:
-      ko-KR: "조교수"
-      en-US: "Assistant Professor"
-    image: "images/organizer/배동성교수님.jpeg"
-    website: "https://software.smu.ac.kr/software/faculty/faculty.do?mode=view&empNo=11329735&pager.offset=0&pagerLimit=20"
-    email: "paeds915@smu.ac.kr"
-    first_elements: false 
-    last_elements: false
-  
-  - index: 7
+  - index: 4
     name:
       ko-KR: "김강희"
       en-US: "Kang Hee Kim"
@@ -150,10 +90,10 @@
     image: "images/organizer/김강희교수님.png"
     website: "https://sites.google.com/view/misysssu/members/prof-kanghee-kim"
     email: "khkim@ssu.ac.kr"
-    first_elements: false 
-    last_elements: true    
+    first_elements: true
+    last_elements: false
 
-  - index: 8
+  - index: 5
     name:
       ko-KR: "심주용"
       en-US: "Joo Yong Sim"
@@ -169,5 +109,62 @@
     image: "images/organizer/심주용교수님.png"
     website: "https://sim-research.org/members/"
     email: "jysim@sookmyung.ac.kr"
-    first_elements: true 
-    last_elements: true    
+    first_elements: false
+    last_elements: false
+
+  # - index: 6
+  #   name:
+  #     ko-KR: "배동성"
+  #     en-US: "Dong Sung Pae"
+  #   company:
+  #     ko-KR: "상명대학교"
+  #     en-US: "Sangmyung University"
+  #   department: 
+  #     ko-KR: "소프트웨어학과"
+  #     en-US: "Department of Software"
+  #   position:
+  #     ko-KR: "조교수"
+  #     en-US: "Assistant Professor"
+  #   image: "images/organizer/배동성교수님.jpeg"
+  #   website: "https://software.smu.ac.kr/software/faculty/faculty.do?mode=view&empNo=11329735&pager.offset=0&pagerLimit=20"
+  #   email: "paeds915@smu.ac.kr"
+  #   first_elements: false 
+  #   last_elements: false
+  
+  # - index: 7
+  #   name:
+  #     ko-KR: "김강희"
+  #     en-US: "Kang Hee Kim"
+  #   company:
+  #     ko-KR: "숭실대학교"
+  #     en-US: "Soongsil University"
+  #   department: 
+  #     ko-KR: "스마트시스템소프트웨어학과"
+  #     en-US: "Department of Smart System Software"
+  #   position:
+  #     ko-KR: "부교수"
+  #     en-US: "Associate Professor"
+  #   image: "images/organizer/김강희교수님.png"
+  #   website: "https://sites.google.com/view/misysssu/members/prof-kanghee-kim"
+  #   email: "khkim@ssu.ac.kr"
+  #   first_elements: false 
+  #   last_elements: true    
+
+  # - index: 8
+  #   name:
+  #     ko-KR: "심주용"
+  #     en-US: "Joo Yong Sim"
+  #   company:
+  #     ko-KR: "숙명여대학교"
+  #     en-US: "Sookmyung Women's University"
+  #   department: 
+  #     ko-KR: "기계시스템학과"
+  #     en-US: "Department of Mechanical System Engineering"
+  #   position:
+  #     ko-KR: "조교수"
+  #     en-US: "Assistant Professor"
+  #   image: "images/organizer/심주용교수님.png"
+  #   website: "https://sim-research.org/members/"
+  #   email: "jysim@sookmyung.ac.kr"
+  #   first_elements: true 
+  #   last_elements: true    

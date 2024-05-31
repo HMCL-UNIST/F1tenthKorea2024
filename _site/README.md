@@ -32,7 +32,7 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
-# 경대인은 보십쇼:
+# :
 
 중요: 이 사이트는 Jekyll을 기반으로 돌아가는 정적 웹페이지 이므로, 대부분의 문법이 Ruby와 Markdown을 따름.
 	 html 파일을 수정 하고 싶다면, Ruby 문법을 숙지 한 후 수정 할 것.
