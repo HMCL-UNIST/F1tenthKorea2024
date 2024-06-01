@@ -40,9 +40,9 @@ h2, h3, h4, h5, h6 {
 
 - 대면 경쟁
 
-각 팀은 등록 양식을 사용하여 경기에 등록할 수 있습니다.
+각 팀은 [등록 양식](https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform)을 사용하여 경기에 등록할 수 있습니다.
 
-주최자와 선호하는 커뮤니케이션 방법은 [F1TENTH 팀 Slack](https://f1tenthxkorea.slack.com/archives/C0484BSEJ2D)의 _ICCAS2024_ 채널입니다.
+<!-- 주최자와 선호하는 커뮤니케이션 방법은 [F1TENTH 팀 Slack](https://f1tenthxkorea.slack.com/archives/C0484BSEJ2D)의 _ICCAS2024_ 채널입니다. -->
 
 
 # 2. 대면 (실제) 경쟁

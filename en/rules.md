@@ -37,9 +37,9 @@ International F1TENTH Autonomous Racing Competition is a racing competition open
 
 This competition will be held in-person competition.
 
-Teams can register for the competition using a [registration form](https://icra2022-race.f1tenth.org/registration.html). 
+Teams can register for the competition using a [registration form](https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform). 
 
-The preferred communication method with the organizers is the ICCAS2024 channel on [F1TENTH-teams Slack](https://join.slack.com/t/f1tenthxkorea/shared_invite/zt-1ibqf5yjq-CkG_z1XRhsZgBsCoSy7JiA).
+<!-- The preferred communication method with the organizers is the ICCAS2024 channel on [F1TENTH-teams Slack](https://join.slack.com/t/f1tenthxkorea/shared_invite/zt-1ibqf5yjq-CkG_z1XRhsZgBsCoSy7JiA). -->
 
 
 # 2. In-person (physical) competition
