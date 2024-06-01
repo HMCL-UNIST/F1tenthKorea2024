@@ -20,7 +20,7 @@ base_url: registration.html
 (Note : 팀원 중 1명은 [ICCAS2024](https://2024.iccas.org/)에 등록하셔야 참가 가능합니다.)
 
 <center class="actions">
-	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKVkevbnDWgko92LW1khAk2kdjgLBZxdTELK35DLuegoC_vQ/viewform" class="button">경주 참가 신청</a>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform?usp=sf_link" class="button">경주 참가 신청</a>
 </center>
 
 <!-- **일반 참가자 용**
