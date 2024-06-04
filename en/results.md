@@ -8,14 +8,14 @@ base_url: results.html
 # Podium Ceremony
 
 
-| Ranking | Award | Team | Prize |
-|:---|:---|:---|:---|
-| 1st Place Prize | -- | -- | -- |
-| 2nd Place Prize | -- | -- | -- |
-| 3rd Place Prize | -- | -- | -- |
-| 4th | -- | -- | -- |
-| 5th | -- | -- | -- |
-| 6th | -- | -- | -- |
+| Ranking | Team |
+|:---|:---|
+| 1st Place Prize |
+| 2nd Place Prize |
+| 3rd Place Prize |
+| 4th |
+| 5th |
+| 6th |
 
 # Time Trial
 
