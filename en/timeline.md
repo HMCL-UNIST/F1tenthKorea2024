@@ -12,7 +12,7 @@ base_url: timeline.html
 |:---|:---:|
 | June 6th | [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform) |
 | Sep 20th <br> 19:00 KST |Orientation (Online Meeting) <br> Meeting Link <br> Demonstrate expectations, prospective participants can ask questions |
-| Sep 29th <br> 23:59 KST | Registration Close |
+| Oct 13th <br> 23:59 KST | Registration Close |
 | Oct 28th | Competition Start |
 | Oct 29th | Team Practice |
 | Oct 30th | Qualification Session & Head-to-Head Tournament Racing |

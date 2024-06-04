@@ -13,7 +13,7 @@ base_url: timeline.html
 |:---|:---:|
 | June 6th | [참가자 등록 시작](https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform) |
 | Sep 20th <br> 19:00 KST | 오리엔테이션 (온라인 미팅) <br>미팅 링크 <br> 대회 소개 및 QnA |
-| Sep 29th <br> 23:59 KST | 등록 마감 |
+| Oct 13th <br> 23:59 KST | 등록 마감 |
 | Oct 28th | 대회 시작 |
 | Oct 29th | 팀 연습 |
 | Oct 30th | 예선 세션 및 정면 승부 토너먼트 레이싱 |
