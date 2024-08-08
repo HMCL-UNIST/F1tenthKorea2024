@@ -108,7 +108,7 @@ The competition will take place in the [Jeju Shinhwa World](https://www.shinhwaw
 
 4. The inspection has to be completed before the Time Trials and after significant changes to the cars hardware or algorithms.
 
-## 2.4 Time Trial
+## 2.4 Qualification (Time Trial)
 
 ### 2.4.1 Definitions
 
