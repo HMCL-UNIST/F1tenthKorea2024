@@ -93,16 +93,16 @@ The competition will take place in the [Jeju Shinhwa World](https://www.shinhwaw
 5. The track can be mapped in either the training sessions on each day or in the qualification session of each team. We are not providing a dedicated time slot for teams to map the track. Since many teams using SLAM algorithm or vision-based localization techniques, a dedicated **Map Creation** or **Mapping** session is not provided for the teams. -->
 1. The surface is flat and covered with rugs. 
 2. The room is a segmented space that uses a gable wall for parts of the auditorium. Since there is no window on the wall, there is no external light coming in, and it is all composed of non-transparent materials.
-3. The track border is constructed from one air pipes of 30 cm diameters. They are made from polyester and metal, secured with cable tie and masking tape. Keep in mind that there can be a gap between the pipes through which the LiDAR beams can pass.
+3. The track border is constructed from one air pipes of 50 cm diameters. They are made from polyester and metal, secured with cable tie and masking tape. Keep in mind that there can be a gap between the pipes through which the LiDAR beams can pass.
 4. The track will fit into the area of around the size of 25×10 m.
-5. The track can be mapped in either the training sessions on each day or in the qualification session of each team. We are not providing a dedicated time slot for teams to map the track. Since many teams using SLAM algorithm or vision-based localization techniques, a dedicated **Map Creation** or **Mapping** session is not provided for the teams.
+5. We will allocate a **mapping** time slot for each team approximately for 3 to 5 minutes, depending on the scale of the competition.
 
 
 ## 2.3 Inspection
 
 1. The purpose of the Inspection is to check that the hardware of the autonomous cars meets the competition requirements and the cars are not dangerous for the environment, opponents, and people.
 
-2. The inspection of the vehicles is done on the first competition day in the morning.
+2. The inspection of the vehicles is done on the first competition day.
 
 3. The inspection is done by the race referees.
 
@@ -116,7 +116,7 @@ The competition will take place in the [Jeju Shinhwa World](https://www.shinhwaw
 
 2. Moving the track border by any distance is called *Crashing*.
 
-2. The track will contain several *checkpoints*, marked with a line across the track. Starting line is not a checkpoint.
+<!-- 2. The track will contain several *checkpoints*, marked with a line across the track. Starting line is not a checkpoint. -->
 
 ### 2.4.2 General
 
@@ -124,13 +124,16 @@ The competition will take place in the [Jeju Shinhwa World](https://www.shinhwaw
 
 2. The race consists of two heats. Each heat lasts for 5 minutes, and the goal is to drive a single lap in as short time as possible and/or to drive as many complete laps as possible. Crashing and stopping the car does not pause the heat timer.
 
-3. Each team is provided two dedicated time slot for their vehicle to qualify. No time extensions are given and after the 5 minutes we move on to the next time slot and the next team. If a team is not able to run the car in this dedicated time slot, the qualification phase is not passed for this team.
+3. Depending on the size of the competition, one opportunity can be given.
+<!-- 3. Each team is provided two dedicated time slot for their vehicle to qualify. No time extensions are given and after the 5 minutes we move on to the next time slot and the next team. If a team is not able to run the car in this dedicated time slot, the qualification phase is not passed for this team. -->
 
 4. The teams are allowed to change the configuration of their algorithms in between the heats, and even during the heat. When the configuration is changed during the heat, the car must stand still. In other words, the teams cannot update the configuration on-line while the car moves.
 
 5. The map (track layout) is **known** a priori and the track layout does not change over the whole competition. Keep in mind that cars crash into the walls and the layout of the track might slightly shift a little bit. Please consider this in your algorithms.
 
 6. The final score for the qualification is two parts: Firstly, based on the ranking of the fastest laptimes you receive points. E.g. with 10 teams the fastest team receives 10 points, second fastest 9 points, thrid fastest 8 points .... and so on. Secondly, based on the number of consecutive uninterrupted laps, a ranking of the teams is created and therefore the teams receive points. E.g. with 10 teams the team with the most laps receives 10 points, second team 9 points, thrid team 8 points .... and so on. The final score is the sum of both scores.
+
+7. When scores are tied, fastest laptimes scores are prioritized.
 
 ### 2.4.3 Requirements for Time Trial qualification
 
@@ -165,15 +168,19 @@ There will be two results tables based on these criteria.
 
 4. The head-to-head race will be organized as a knockout tournament with brackets seeded by results of the qualification. For example, with 8 teams, the bracket of the first round will be (#1 vs. #8, #2 vs. #7, #3 vs. #6, and #4 vs. #5).
 
-5. One head-to-head race consists of two teams racing against each other. One race has a dedicated timeslot of around 10 minutes. If one team is not showing up in these 10 minutes and let their car race, the other team won. If at some point along the race a car is not able to drive anymore (e.g. hardware issue, software not running etc.) and the teams are not able to restart the car withing the 10 minutes, the other team one the race. No time extensions are given and after the 10 minutes we move on to the next time slot and the next team.
+5. Each round will be played in two out of three games.
 
-6. Each of the competing cars starts at its own starting line. Starting lines will be located at the opposite parts of the track.
+6. The starting position of the first game will be determined by the higher-ranked team in the qualifying round and then the losing team of the previous game will choose the position.
 
-7. Overtaking may be carried out on either the right or the left.
+7. One head-to-head race consists of two teams racing against each other. One race has a dedicated timeslot of around 5 minutes. If one team is not showing up in these 5 minutes and let their car race, the other team won. If at some point along the race a car is not able to drive anymore (e.g. hardware issue, software not running etc.) and the teams are not able to restart the car withing the 5 minutes, the other team one the race. No time extensions are given and after the 5 minutes we move on to the next time slot and the next team.
 
-8. As opposed to time trials, no reconfiguration is allowed during the race, except after the crash, as described below.
+8. Each of the competing cars starts at its own starting line. Starting lines will be located at the opposite parts of the track.
 
-9. Ultimately, organizers reserve the right to assign blame in the case of vehicle collision in the head-to-head tournament.
+9. Overtaking may be carried out on either the right or the left.
+
+10. As opposed to time trials, no reconfiguration is allowed during the race, except after the crash, as described below.
+
+11. Ultimately, organizers reserve the right to assign blame in the case of vehicle collision in the head-to-head tournament.
 
 
 ### 2.5.2 Requirements for qualification
@@ -197,12 +204,13 @@ There will be two results tables based on these criteria.
 
 4. Upon crashing the opponent, these steps are applied:
 
-    1. Referees judge which car is at fault.
-    2. Both cars are placed next to each other at the place decided by the referees
+    1. Referees judge which car is at fault and give a warning.
+    2. Both cars are placed at the place decided by the referees
     3. The referees restart the race.
+    4. If a team receives two warnings in a game, the team loses the game and proceeds to the next game.
 
 ### 2.5.4 Evaluation
 
 1. The first car that completes 8 laps wins.
-2. There will be two referees, one for each car.
+2. There will be a referee.
 3. Each referee counts the lap for one car and is responsible for identifying the crashes.
