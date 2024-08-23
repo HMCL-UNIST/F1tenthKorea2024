@@ -42,5 +42,7 @@ If you have registered for participation but the list below is not updated, plea
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
-||||
+|AIML|Jeju National University|Junhyeok Yang, Jooho Kim, Byungyeon Kim, Suhwan Kim, Yoonchul Yang, Junhyeok Choi, Cheolwon Park|
+|DSPlay|Sangmyung University|Jihoon Park, Hyundong Lee, Jungmin Hwang|
+|KMUTT|King Mongkut's University of Technology Thonburi|Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Panuphan Rattanavadi|
 ||||

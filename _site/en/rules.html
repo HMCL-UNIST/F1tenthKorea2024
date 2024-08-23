@@ -140,7 +140,7 @@ h2, h3, h4, h5, h6 {
       <li><a href="#21-vehicle-classes" id="markdown-toc-21-vehicle-classes">2.1 Vehicle classes</a></li>
       <li><a href="#22-track--racing-environment" id="markdown-toc-22-track--racing-environment">2.2 Track &amp; racing environment</a></li>
       <li><a href="#23-inspection" id="markdown-toc-23-inspection">2.3 Inspection</a></li>
-      <li><a href="#24-time-trial" id="markdown-toc-24-time-trial">2.4 Time Trial</a>        <ul>
+      <li><a href="#24-qualification-time-trial" id="markdown-toc-24-qualification-time-trial">2.4 Qualification (Time Trial)</a>        <ul>
           <li><a href="#241-definitions" id="markdown-toc-241-definitions">2.4.1 Definitions</a></li>
           <li><a href="#242-general" id="markdown-toc-242-general">2.4.2 General</a></li>
           <li><a href="#243-requirements-for-time-trial-qualification" id="markdown-toc-243-requirements-for-time-trial-qualification">2.4.3 Requirements for Time Trial qualification</a></li>
@@ -181,7 +181,7 @@ qualification and will be automatically registered to both races.</p>
     <p>Teams registered to the in-person competition need to provide and build a F1TENTH car by themselves according to the constraints listed below. In addition, each team must have a unique vehicle (i.e., a research lab may not field six teams with one car).</p>
   </li>
   <li>
-    <p>To increase the quality of the future F1TENTH competitions, the winner of each race is encourage to publish the code of their algorithm under an open-source license in the <a href="https://github.com/f1tenth">F1TENTH repository</a> on Github.</p>
+    <p>To increase the quality of the future F1TENTH competitions, the winner of each race is encouraged to publish the code of their algorithm under an open-source license in the <a href="https://github.com/f1tenth">F1TENTH repository</a> on Github.</p>
   </li>
 </ol>
 
@@ -224,12 +224,17 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
 
 <p>The competition will take place in the <a href="https://www.shinhwaworld.com/">Jeju Shinhwa World</a>. The characteristics of the environment where the track will be built are:</p>
 
+<!-- 1. The surface is flat and reflective. Therefore, LiDAR beams may reflect from the ground and measure the surrounding area rather than the ground. Similarly, depth cameras have problems with proper ground detection.
+2. The room is surrounded by windows and “glass walls”. The windows will be covered by non-transparent material up to 50 cm from the ground to improve the perception. The room is bright, and the Sun can shine into it.
+3. The track border is constructed from one air pipes of 33 cm diameters. They are made from aluminium and metal, secured with plastic/wodden holders. Keep in mind that there can be a gap between the pipes through which the LiDAR beams can pass.
+4. The track will fit into the area of around the size of 25×10 m.
+5. The track can be mapped in either the training sessions on each day or in the qualification session of each team. We are not providing a dedicated time slot for teams to map the track. Since many teams using SLAM algorithm or vision-based localization techniques, a dedicated **Map Creation** or **Mapping** session is not provided for the teams. -->
 <ol>
-  <li>The surface is flat and reflective. Therefore, LiDAR beams may reflect from the ground and measure the surrounding area rather than the ground. Similarly, depth cameras have problems with proper ground detection.</li>
-  <li>The room is surrounded by windows and “glass walls”. The windows will be covered by non-transparent material up to 50 cm from the ground to improve the perception. The room is bright, and the Sun can shine into it.</li>
-  <li>The track border is constructed from one air pipes of 33 cm diameters. They are made from aluminium and metal, secured with plastic/wodden holders. Keep in mind that there can be a gap between the pipes through which the LiDAR beams can pass.</li>
-  <li>The track will fit into the area of around the size of 30×16.35 m.</li>
-  <li>The track can be mapped in either the training sessions on each day or in the qualification session of each team. Additionally, a dedicated time slot is provided for teams to map the track. Since many teams using SLAM algorithm or vision-based localization techniques, a <strong>Premade Map</strong> is not provided for the teams.</li>
+  <li>The surface is flat and covered with rugs.</li>
+  <li>The room is a segmented space that uses a gable wall for parts of the auditorium. Since there is no window on the wall, there is no external light coming in, and it is all composed of non-transparent materials.</li>
+  <li>The track border is constructed from one air pipes of 50 cm diameters. They are made from polyester and metal, secured with cable tie and masking tape. Keep in mind that there can be a gap between the pipes through which the LiDAR beams can pass.</li>
+  <li>The track will fit into the area of around the size of 25×10 m.</li>
+  <li>We will allocate a <strong>mapping</strong> time slot for each team approximately for 3 to 5 minutes, depending on the scale of the competition.</li>
 </ol>
 
 <h4 id="23-inspection">2.3 Inspection</h4>
@@ -239,7 +244,7 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
     <p>The purpose of the Inspection is to check that the hardware of the autonomous cars meets the competition requirements and the cars are not dangerous for the environment, opponents, and people.</p>
   </li>
   <li>
-    <p>The inspection of the vehicles is done on the first competition day in the morning.</p>
+    <p>The inspection of the vehicles is done on the first competition day.</p>
   </li>
   <li>
     <p>The inspection is done by the race referees.</p>
@@ -249,7 +254,7 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
   </li>
 </ol>
 
-<h4 id="24-time-trial">2.4 Time Trial</h4>
+<h4 id="24-qualification-time-trial">2.4 Qualification (Time Trial)</h4>
 
 <h5 id="241-definitions">2.4.1 Definitions</h5>
 
@@ -260,10 +265,9 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
   <li>
     <p>Moving the track border by any distance is called <em>Crashing</em>.</p>
   </li>
-  <li>
-    <p>The track will contain several <em>checkpoints</em>, marked with a line across the track. Starting line is not a checkpoint.</p>
-  </li>
 </ol>
+
+<!-- 2. The track will contain several *checkpoints*, marked with a line across the track. Starting line is not a checkpoint. -->
 
 <h5 id="242-general">2.4.2 General</h5>
 
@@ -275,7 +279,8 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
     <p>The race consists of two heats. Each heat lasts for 5 minutes, and the goal is to drive a single lap in as short time as possible and/or to drive as many complete laps as possible. Crashing and stopping the car does not pause the heat timer.</p>
   </li>
   <li>
-    <p>Each team is provided two dedicated time slot for their vehicle to qualify. No time extensions are given and after the 5 minutes we move on to the next time slot and the next team. If a team is not able to run the car in this dedicated time slot, the qualification phase is not passed for this team.</p>
+    <p>Depending on the size of the competition, one opportunity can be given.
+<!-- 3. Each team is provided two dedicated time slot for their vehicle to qualify. No time extensions are given and after the 5 minutes we move on to the next time slot and the next team. If a team is not able to run the car in this dedicated time slot, the qualification phase is not passed for this team. --></p>
   </li>
   <li>
     <p>The teams are allowed to change the configuration of their algorithms in between the heats, and even during the heat. When the configuration is changed during the heat, the car must stand still. In other words, the teams cannot update the configuration on-line while the car moves.</p>
@@ -285,6 +290,9 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
   </li>
   <li>
     <p>The final score for the qualification is two parts: Firstly, based on the ranking of the fastest laptimes you receive points. E.g. with 10 teams the fastest team receives 10 points, second fastest 9 points, thrid fastest 8 points …. and so on. Secondly, based on the number of consecutive uninterrupted laps, a ranking of the teams is created and therefore the teams receive points. E.g. with 10 teams the team with the most laps receives 10 points, second team 9 points, thrid team 8 points …. and so on. The final score is the sum of both scores.</p>
+  </li>
+  <li>
+    <p>When scores are tied, fastest laptimes scores are prioritized.</p>
   </li>
 </ol>
 
@@ -339,7 +347,13 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
     <p>The head-to-head race will be organized as a knockout tournament with brackets seeded by results of the qualification. For example, with 8 teams, the bracket of the first round will be (#1 vs. #8, #2 vs. #7, #3 vs. #6, and #4 vs. #5).</p>
   </li>
   <li>
-    <p>One head-to-head race consists of two teams racing against each other. One race has a dedicated timeslot of around 10 minutes. If one team is not showing up in these 10 minutes and let their car race, the other team won. If at some point along the race a car is not able to drive anymore (e.g. hardware issue, software not running etc.) and the teams are not able to restart the car withing the 10 minutes, the other team one the race. No time extensions are given and after the 10 minutes we move on to the next time slot and the next team.</p>
+    <p>Each round will be played in two out of three games.</p>
+  </li>
+  <li>
+    <p>The starting position of the first game will be determined by the higher-ranked team in the qualifying round and then the losing team of the previous game will choose the position.</p>
+  </li>
+  <li>
+    <p>One head-to-head race consists of two teams racing against each other. One race has a dedicated timeslot of around 5 minutes. If one team is not showing up in these 5 minutes and let their car race, the other team won. If at some point along the race a car is not able to drive anymore (e.g. hardware issue, software not running etc.) and the teams are not able to restart the car withing the 5 minutes, the other team one the race. No time extensions are given and after the 5 minutes we move on to the next time slot and the next team.</p>
   </li>
   <li>
     <p>Each of the competing cars starts at its own starting line. Starting lines will be located at the opposite parts of the track.</p>
@@ -387,9 +401,10 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
     <p>Upon crashing the opponent, these steps are applied:</p>
 
     <ol>
-      <li>Referees judge which car is at fault.</li>
-      <li>Both cars are placed next to each other at the place decided by the referees</li>
+      <li>Referees judge which car is at fault and give a warning.</li>
+      <li>Both cars are placed at the place decided by the referees</li>
       <li>The referees restart the race.</li>
+      <li>If a team receives two warnings in a game, the team loses the game and proceeds to the next game.</li>
     </ol>
   </li>
 </ol>
@@ -398,7 +413,7 @@ Other sensors (IMUs, encoders, custom electronic speed controllers) are not rest
 
 <ol>
   <li>The first car that completes 8 laps wins.</li>
-  <li>There will be two referees, one for each car.</li>
+  <li>There will be a referee.</li>
   <li>Each referee counts the lap for one car and is responsible for identifying the crashes.</li>
 </ol>
 
