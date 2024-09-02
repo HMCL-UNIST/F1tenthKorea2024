@@ -40,15 +40,15 @@ base_url: registration.html
 
 # 참가자
 
-만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 ryujs@unist.ac.kr로 문의하세요.
+만약 참가 신청을 했지만 아래 목록이 업데이트되지 않은 경우 dbs2911@unist.ac.kr로 문의하세요.
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
 |AIML|Jeju National University|Junhyeok Yang, Jooho Kim, Byungyeon Kim, Suhwan Kim, Yoonchul Yang, Junhyeok Choi, Cheolwon Park|
 |DSPlay|Sangmyung University|Jihoon Park, Hyundong Lee, Jungmin Hwang|
 |KMUTT|King Mongkut's University of Technology Thonburi|Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Panuphan Rattanavadi|
-|SEA:ME|Kookmin University|Hamin An, Minsung Ko, Jihwan Kim, Juyeon Park, hyeonjin Cha|
-
+|SEA:ME|Kookmin University|Hamin An, Minsung Ko, Jihwan Kim, Juyeon Park, hyeonjin Cha, Jaeheon Kim|
+|IDEA_LAB|Gyeongsang National University |Myeongjun Kim, Jihong Park, Juyoung Kim, Sunwoong Moon, Gyuhyeok Lee, Sujin Park|
 
 
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
