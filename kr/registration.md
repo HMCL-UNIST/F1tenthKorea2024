@@ -49,7 +49,9 @@ base_url: registration.html
 |KMUTT|King Mongkut's University of Technology Thonburi|Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Panuphan Rattanavadi|
 |SEA:ME|Kookmin University|Hamin An, Minsung Ko, Jihwan Kim, Juyeon Park, hyeonjin Cha, Jaeheon Kim|
 |IDEA_LAB|Gyeongsang National University |Myeongjun Kim, Jihong Park, Juyoung Kim, Sunwoong Moon, Gyuhyeok Lee, Sujin Park|
-
+|MOVE|Inje University|Joonhyung Im, Dongbin Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park|
+|LiCS-KI|KAIST|Joshua Julian Damanik, Chala Adane Deresa, Minjo Jung, Byeongmin Jeong|
+|F1t_lab|Inje University|Lee Seungmin, Lee Hojae, Jeong Seonung, Lee Dongyeop, Baek Seungheon|
 
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
