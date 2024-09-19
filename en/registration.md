@@ -20,6 +20,13 @@ For race registration and more information, sign up to participate in orientatio
 
 <center class="actions">
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform?usp=sf_link" class="button">Registration for a race</a>
+
+</center>
+
+<br>
+
+<center class="actions">
+	<a href="https://join.slack.com/t/f1tenthkoreab-m4i3495/shared_invite/zt-2qqvtmboh-nLfEQWJcoE9pUdybidyqcw" class="button">QnA through slack</a>
 </center>
 
 <!-- A form for race observers
