@@ -11,11 +11,17 @@ base_url: timeline.html
 | DATE | IN-PERSON COMPETITION |
 |:---|:---:|
 | June 6th | [Registration Open](https://docs.google.com/forms/d/e/1FAIpQLSc8hK-SnthwWaVjcNTqFdi9nbaxAi6ImTIuK7bMWi-5cbc5zw/viewform) |
-| Sep 20th <br> 19:00 KST |Orientation (Online Meeting) <br> [Meeting Link](https://unist-ac-kr.zoom.us/j/81497579832?pwd=nHrFm6Gcdm0Uy21bMCqFfOnaE1D7ub.1) <br> Competition overview & QnA |
+| Sep 20th <br> 19:00 KST |Orientation (Online Meeting) <br> [Orientation Slides](../images/ICCAS2024F1tenthOrientation0920.pdf) <br> Competition overview & QnA |
 | Oct 13th <br> 23:59 KST | Registration Close |
 | Oct 29th | Competition Start & Team Practice |
 | Oct 30th | Qualification Session & Head-to-Head Tournament Racing |
 | Oct 31st | Semi-Final & Final Racing |
+
+<br>
+
+<div style="text-align: center;">
+    <img src="../images/timetable.png" lt="Competition Schedule" width="1200">
+</div>
 
 <!-- | DATE | IN-PERSON COMPETITION |
 |:---|:---:|

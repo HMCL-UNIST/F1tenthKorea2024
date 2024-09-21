@@ -54,10 +54,13 @@ base_url: registration.html
 |DSPlay|Sangmyung University|Jihoon Park, Hyundong Lee, Jungmin Hwang|
 |KMUTT|King Mongkut's University of Technology Thonburi|Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Panuphan Rattanavadi|
 |SEA:ME|Kookmin University|Hamin An, Minsung Ko, Jihwan Kim, Juyeon Park, hyeonjin Cha, Jaeheon Kim|
-|IDEA_LAB|Gyeongsang National University |Myeongjun Kim, Jihong Park, Juyoung Kim, Sunwoong Moon, Gyuhyeok Lee, Sujin Park|
-|MOVE|Inje University|Joonhyung Im, Dongbin Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park|
+|IDEA_LAB|Gyeongsang National University|Myeongjun Kim, Jihong Park, Juyoung Kim, Sunwoong Moon, Gyuhyeok Lee, Sujin Park|
+|MOVE|Inje University|Joonhyung Im, Dongbin Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park, Jaehyung Choi|
 |LiCS-KI|KAIST|Joshua Julian Damanik, Chala Adane Deresa, Minjo Jung, Byeongmin Jeong|
-|F1t_lab|Inje University|Lee Seungmin, Lee Hojae, Jeong Seonung, Lee Dongyeop, Baek Seungheon|
+|F1t_lab|Inje University|Seungmin Lee, Hojae Lee, Seonung Jeong, Dongyeop Lee, Seungheon Baek|
+|Tayo Eagles|Chungbuk National University|Gihwan Jo, Dohyun Kwon, Geonwoo Kim|
+|Supernova|Inje University|Changryeong Kim, Minseob Seo, Youngwoo Park|
+|F1_DDAYA|Inje University|Junho Kim, Woojun Ahn, Minho Lee|
 
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
