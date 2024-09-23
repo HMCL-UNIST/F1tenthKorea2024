@@ -65,7 +65,7 @@ qualification and will be automatically registered to both races.
     5. _Main Computation Unit_:
         **Nvidia Jetson Xavier NX & Nvidia Orin NX (AGX)**, Equivalents to the Nvidia Jetson NX & Nvidia Orin NX(AGX) (e.g. Nvidia Jetson TX2, Nvidia Jetson Nano), or anything of equal or lower GPU and CPU specification is allowed. Examples of possible computation units could be: Raspberry Pi, Arduino, Beaglebone.
     6. _LiDAR_:
-        [**Hokuyo UST-x0LX**](https://www.hokuyo-aut.jp/search/single.php?serial=167), its equivalent, or anything of lower specifications is allowed. The main observed characteristics are: detection range (30 m), scanning frequency (40 Hz), and angular resolution (0.25°).
+        [**Hokuyo UST-30LX**](https://www.hokuyo-aut.jp/search/single.php?serial=167), its equivalent, or anything of lower specifications is allowed. The main observed characteristics are: detection range (30 m), scanning frequency (40 Hz), and angular resolution (0.25°).
     7. _Camera_:
         Both *monocamera* (e.g. Logitech C270, Logitech C920, Raspberry Pi Camera Module V2, Arducam) and *stereokameras* (e.g. Intel Realsense, ZED) are allowed.
     8. _Engine_:
