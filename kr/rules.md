@@ -70,7 +70,7 @@ h2, h3, h4, h5, h6 {
         **Nvidia Jetson Xavier NX & Nvidia Orin NX (AGX)**, Nvidia Jetson NX & Nvidia Orin NX (AGX)와 동급(예: Nvidia Jetson TX2, Nvidia Jetson Nano) 또는 GPU 및 CPU 사양이 같거나 낮은 모든 것은 모두  허용됩니다. 또 다른 예로는 Raspberry Pi, Arduino, Beaglebone이 있습니다.
 
     6. _LiDAR_:
-        [**Hokuyo UST-10LX**](https://www.hokuyo-aut.jp/search/single.php?serial=167), i동급 또는 그보다 낮은 사양의 모든 라이다를 허용합니다. 관찰된 주요 특성은 다음과 같습니다. 감지 범위(10m), 스캔 주파수(40Hz) 및 각도 분해능(0.25°)입니다.
+        [**Hokuyo UST-x0LX**](https://www.hokuyo-aut.jp/search/single.php?serial=167), i동급 또는 그보다 낮은 사양의 모든 라이다를 허용합니다. 관찰된 주요 특성은 다음과 같습니다. 감지 범위(30m), 스캔 주파수(40Hz) 및 각도 분해능(0.25°)입니다.
 
     7. _카메라_:
         모노 카메라(예: Logitech C270, Logitech C920, Raspberry Pi Camera Module V2, Arducam) 및 스테레오 카메라(예: Intel Realsense, ZED) 모두 허용됩니다.
