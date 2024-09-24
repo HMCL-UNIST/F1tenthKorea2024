@@ -52,7 +52,7 @@ base_url: registration.html
 |:---|:---|:---|
 |AIML|Jeju National University|Junhyeok Yang, Jooho Kim, Byungyeon Kim, Suhwan Kim, Yoonchul Yang, Junhyeok Choi, Cheolwon Park|
 |DSPlay|Sangmyung University|Jihoon Park, Hyundong Lee, Jungmin Hwang|
-|KMUTT|King Mongkut's University of Technology Thonburi|Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Panuphan Rattanavadi|
+|KMUTT|King Mongkut's University of Technology Thonburi|Benjamas Panomruttanarug, Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Rut Huttapong, Pongsakorn Tabtimthai|
 |SEA:ME|Kookmin University|Hamin An, Minsung Ko, Jihwan Kim, Juyeon Park, hyeonjin Cha, Jaeheon Kim|
 |IDEA_LAB|Gyeongsang National University|Myeongjun Kim, Jihong Park, Juyoung Kim, Sunwoong Moon, Gyuhyeok Lee, Sujin Park|
 |MOVE|Inje University|Joonhyung Im, Dongbin Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park, Jaehyung Choi|
@@ -60,7 +60,8 @@ base_url: registration.html
 |F1t_lab|Inje University|Seungmin Lee, Hojae Lee, Seonung Jeong, Dongyeop Lee, Seungheon Baek|
 |Tayo Eagles|Chungbuk National University|Gihwan Jo, Dohyun Kwon, Geonwoo Kim|
 |Supernova|Inje University|Changryeong Kim, Minseob Seo, Youngwoo Park|
-|F1_DDAYA|Inje University|Junho Kim, Woojun Ahn, Minho Lee|
+|F1_DDAYA|Inje University|Junho Kim, Woojun Ahn, Minho Lee, Jaeheon Jung|
+|GROMIT|Sookmyung Women's University|Yeina Lee, Seongbeen Lee, Jiyoung Kim, Seoyeon Bae|
 
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
