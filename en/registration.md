@@ -61,5 +61,11 @@ If you have registered for participation but the list below is not updated, plea
 |Supernova|Inje University|Changryeong Kim, Minseob Seo, Youngwoo Park|
 |F1_DDAYA|Inje University|Junho Kim, Woojun Ahn, Minho Lee, Jaeheon Jung|
 |GROMIT|Sookmyung Women's University|Yeina Lee, Seongbeen Lee, Jiyoung Kim, Seoyeon Bae|
-|KUml KUml|Korea University|Hyebin Jeong, Gyeongjae Kim, Seongdu Yun, Juho Lee, Hojeong Lee|
-|XNK|Korea University|Woojin Ahn, Jiwon Kim, Hyeongrae Cho, Hyunah Kim, Jongchan Park|
+|KUml KUml|Korea University|Hyebin Jeong, Gyeongjae Kim, Seongdu Yun, Juho Lee, Hojeong Lee, Abirham Yilkal Mogne|
+|XNK|Korea University|Woojin Ahn, Jiwon Kim, Hyeongrae Cho, Hyunah Kim, Jongchan Park, Sangryul Baek|
+|Breath|Handong Global University|Minsu Kim, Wonbin Lee, Sechan Park, Sunhwan Lee,  Minyoung Song, Sieun Park|
+|theSuperJazari|MIMOS Berhad|Mahir Sehmi, Anwar Saamad, Fariz Azmi|
+|CIRL|Seoul National University of Science and Technology|Hanif Edma Fauz, Sehyun Jeon, Anak Agung Krisna Ananda Kusuma|
+|F1-Mechanic|Inha University|Hyeongmin Lee, Seungmin Oh, Seokho Kim, Myeonggeun Jo, Hyunjae Park|
+|Tachyon X|Kyungpook National University|Sangcheol Lee, Jaehwan Lee, Geonjun Park, Hyuntak Lee, Jihoon Jung|
+|U-stang|Ulsan National Institute of Science and Technology|Seongjun Lee, Hyeongjoon Yang, Daegeol Ko, Hankyoul Ko|
