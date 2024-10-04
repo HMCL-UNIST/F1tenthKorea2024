@@ -69,3 +69,11 @@ If you have registered for participation but the list below is not updated, plea
 |F1-Mechanic|Inha University|Hyeongmin Lee, Seungmin Oh, Seokho Kim, Myeonggeun Jo, Hyunjae Park|
 |Tachyon X|Kyungpook National University|Sangcheol Lee, Jaehwan Lee, Geonjun Park, Hyuntak Lee, Jihoon Jung|
 |U-stang|Ulsan National Institute of Science and Technology|Seongjun Lee, Hyeongjoon Yang, Daegeol Ko, Hankyoul Ko|
+|SAI|Kangwon National University|Gyeongtae Park, Taehun Yun, Chungi Min|
+|MecLAREN|Kangwon National University|Yejin Heo, Woosung Jin, Hyunseo Do|
+|Sungborghini|Soongsil University|Inhye Heo, Heeseon Kim, Jonghyuk Song, Jimin Jeon|
+|Raptor81|Soongsil University|Nahyun Kwon, Sungmin Park, Chaeun Park, Mingyu Lee|
+|FAD|Soongsil University|Suhyun Park, Gyulyn Kim, Hyeokjin Cho, Chaewon Lee|
+|ROSS|Soongsil University|Hojae Lee, Jongseung Park, Seojeong Choi|
+|SSUNG CAR|Soongsil University|Haechan Jung, Huimin Park, Jaeung Jeong, Bonghoon Hong|
+|MR_Lab|Kangwon National University|Seunghyun Song, Raewon Kim, Seongung Kim, Junseok Jeon, Songhyeok Choi, Sangmin Kwon|
