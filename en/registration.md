@@ -77,3 +77,7 @@ If you have registered for participation but the list below is not updated, plea
 |ROSS|Soongsil University|Hojae Lee, Jongseung Park, Seojeong Choi|
 |SSUNG CAR|Soongsil University|Haechan Jung, Huimin Park, Jaeung Jeong, Bonghoon Hong|
 |MR_Lab|Kangwon National University|Seunghyun Song, Raewon Kim, Seongung Kim, Junseok Jeon, Songhyeok Choi, Sangmin Kwon|
+|KAU RML|Korea Aerospace University|Jihoon Hong, Jaewoo Seok, Yoojung Son, Minseo Choi|
+|Blue Wave|Korea Maritime and Ocean University|Hyunho An, Jihyeon Kim, Minseok Yang|
+|확불살라삔다|Dong-a University|Bojeong Park, Seunghwan Kim, Seoyoung Mun, Jaeyeung Jeong, Minho Lee|
+|YOLO_JOK|Dong-a University|Donghun Park, Jongwoo Kim, Heecheol Jeong, Youngjun Park, Jungwook Kim|
