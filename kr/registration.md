@@ -58,7 +58,7 @@ base_url: registration.html
 |MOVE|Inje University|Joonhyung Im, Dongbin Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park, Jaehyung Choi|
 |LiCS-KI|KAIST|Joshua Julian Damanik, Chala Adane Deresa, Minjo Jung, Byeongmin Jeong|
 |F1t_lab|Inje University|Seungmin Lee, Hojae Lee, Seonung Jeong, Dongyeop Lee, Seungheon Baek|
-|Tayo Eagles|Chungbuk National University|Gihwan Jo, Dohyun Kwon, Geonwoo Kim|
+|Tayo Eagles|Chungbuk National University|Gihwan Jo, Dohyun Kwon, Geonwoo Kim, Johee Lee, Hyunji Oh|
 |Supernova|Inje University|Changryeong Kim, Minseob Seo, Youngwoo Park|
 |F1_DDAYA|Inje University|Junho Kim, Woojun Ahn, Minho Lee, Jaeheon Jung|
 |GROMIT|Sookmyung Women's University|Yeina Lee, Seongbeen Lee, Jiyoung Kim, Seoyeon Bae|
@@ -82,6 +82,7 @@ base_url: registration.html
 |Blue Wave|Korea Maritime and Ocean University|Hyunho An, Jihyeon Kim, Minseok Yang|
 |확불살라삔다|Dong-a University|Bojeong Park, Seunghwan Kim, Seoyoung Mun, Jaeyeung Jeong, Minho Lee|
 |YOLO_JOK|Dong-a University|Donghun Park, Jongwoo Kim, Heecheol Jeong, Youngjun Park, Jungwook Kim|
+|Mach 303|Pusan National University|Jinyoung Jo, Minseok Kim, Junhyeok Park, Jiwon Sung, Daehee Lee, Seokyoung Ahn, Eon Joo Lee, Min Seo Kim, Byunghui Kim, Jaehyeon Bae, Haejin Lim, Gahyeon JI |
 
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
