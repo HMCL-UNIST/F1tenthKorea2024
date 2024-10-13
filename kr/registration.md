@@ -64,7 +64,7 @@ base_url: registration.html
 |GROMIT|Sookmyung Women's University|Yeina Lee, Seongbeen Lee, Jiyoung Kim, Seoyeon Bae|
 |KUml KUml|Korea University|Hyebin Jeong, Gyeongjae Kim, Seongdu Yun, Juho Lee, Hojeong Lee, Abirham Yilkal Mogne|
 |XNK|Korea University|Woojin Ahn, Jiwon Kim, Hyeongrae Cho, Hyunah Kim, Jongchan Park, Sangryul Baek|
-|Breath|Handong Global University|Minsu Kim, Wonbin Lee, Sechan Park, Sunhwan Lee,  Minyoung Song, Sieun Park|
+|Breath|Handong Global University|Sunhwan Lee, Sechan Park, Wonbin Lee|
 |theSuperJazari|MIMOS Berhad|Mahir Sehmi, Anwar Saamad, Fariz Azmi|
 |CIRL|Seoul National University of Science and Technology|Hanif Edma Fauz, Sehyun Jeon, Anak Agung Krisna Ananda Kusuma|
 |F1-Mechanic|Inha University|Hyeongmin Lee, Seungmin Oh, Seokho Kim, Myeonggeun Jo, Hyunjae Park|
@@ -83,7 +83,9 @@ base_url: registration.html
 |확불살라삔다|Dong-a University|Bojeong Park, Seunghwan Kim, Seoyoung Mun, Jaeyeung Jeong, Minho Lee|
 |YOLO_JOK|Dong-a University|Donghun Park, Jongwoo Kim, Heecheol Jeong, Youngjun Park, Jungwook Kim|
 |Mach 303|Pusan National University|Jinyoung Jo, Minseok Kim, Junhyeok Park, Jiwon Sung, Daehee Lee, Seokyoung Ahn, Eon Joo Lee, Min Seo Kim, Byunghui Kim, Jaehyeon Bae, Haejin Lim, Gahyeon JI |
-
+|라이닷|Handong Global University|Minsu Kim, Minyoung Song, Sieun Park|
+|RISE LAB|Sungkyunkwan University|Nabih Pico, JunYoung Han,  Chaeeun Seok, Chaerim Lim, Yeongjun Son, Hansu Shin|
+|PNU-1|Pusan National University|Bugeon Kim, Donghyun Koo, Hyunseop Shim|
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |
 | KMUTT | King Mongkut's University of Technology Thonburi | Benjamas Panomruttanarug, Jirat Lapsittiwong |
