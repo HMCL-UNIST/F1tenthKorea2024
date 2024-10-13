@@ -86,6 +86,7 @@ base_url: registration.html
 |라이닷|Handong Global University|Minsu Kim, Minyoung Song, Sieun Park|
 |RISE LAB|Sungkyunkwan University|Nabih Pico, JunYoung Han,  Chaeeun Seok, Chaerim Lim, Yeongjun Son, Hansu Shin|
 |PNU-1|Pusan National University|Bugeon Kim, Donghyun Koo, Hyunseop Shim|
+|머리핑|Dong-a University|Namhyeon Kim, Suil Yoon, Yutaek Jin, Seungwoo Ha|
 
 <!-- | Black Crane | 인제대학교 | 김성준, 이호재, 정선용 |
 | Tayo Eagles | 충북대학교 | 김건우, 김택림, 권도현 |

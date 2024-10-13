@@ -85,3 +85,4 @@ If you have registered for participation but the list below is not updated, plea
 |라이닷|Handong Global University|Minsu Kim, Minyoung Song, Sieun Park|
 |RISE LAB|Sungkyunkwan University|Nabih Pico, JunYoung Han,  Chaeeun Seok, Chaerim Lim, Yeongjun Son, Hansu Shin|
 |PNU-1|Pusan National University|Bugeon Kim, Donghyun Koo, Hyunseop Shim|
+|머리핑|Dong-a University|Namhyeon Kim, Suil Yoon, Yutaek Jin, Seungwoo Ha|
