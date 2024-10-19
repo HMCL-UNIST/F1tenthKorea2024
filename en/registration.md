@@ -49,12 +49,12 @@ If you have registered for participation but the list below is not updated, plea
 
 | TEAM NAME | AFFILIATION | TEAM MEMBERS |
 |:---|:---|:---|
-|AIML|Jeju National University|Junhyeok Yang, Jooho Kim, Byungyeon Kim, Suhwan Kim, Yoonchul Yang, Junhyeok Choi, Jiwook Park|
-|DSPlay|Sangmyung University|Jihoon Park, Hyundong Lee, Jungmin Hwang|
+|AIML|Jeju National University|Junhyeok Yang, Juho Kim, Byeongyeon Kim, Suhwan Kim, Yuncheol Yang, Junhyeok Choi, Jiwook Park|
+|DSPlay|Sangmyung University|Jihoon Park, Hyundong Lee, Jungmin Hwang, Woojin Lee|
 |KMUTT|King Mongkut's University of Technology Thonburi|Benjamas Panomruttanarug, Phuriphat Chomchuenphrueksa, Peeratchai Chamwong, Rut Huttapong, Pongsakorn Tabtimthai|
 |SEA:ME|Kookmin University|Hamin An, Minsung Ko, Jihwan Kim, Juyeon Park, hyeonjin Cha, Jaeheon Kim|
 |IDEA_LAB|Gyeongsang National University|Myeongjun Kim, Jihong Park, Juyoung Kim, Sunwoong Moon, Gyuhyeok Lee, Sujin Park|
-|MOVE|Inje University|Joonhyung Im, Dongbin Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park, Jaehyung Choi|
+|MOVE|Inje University|Joonhyung Im, Dongbeen Jeon, Youngrok Kim, Seongwoo Kim, Sehun Park, Jaehyung Choi|
 |LiCS-KI|KAIST|Joshua Julian Damanik, Chala Adane Deresa, Minjo Jung, Byeongmin Jeong|
 |F1t_lab|Inje University|Seungmin Lee, Hojae Lee, Seonung Jeong, Dongyeop Lee, Seungheon Baek|
 |Tayo Eagles|Chungbuk National University|Gihwan Jo, Dohyun Kwon, Geonwoo Kim, Johee Lee, Hyunji Oh|
