@@ -21,7 +21,7 @@ base_url: timeline.html
 <br>
 
 <div style="text-align: center;">
-    <img src="../images/timetable.png" lt="Competition Schedule" width="1200">
+    <img src="../images/New_Timetable.png" lt="Competition Schedule" width="700">
 </div>
 
 
