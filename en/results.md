@@ -10,16 +10,19 @@ base_url: results.html
 
 | Ranking | Team |
 |:---|:---|
-| 1st Place Prize |
-| 2nd Place Prize |
-| 3rd Place Prize |
-| 4th |
-| 5th |
-| 6th |
+| 1st Place Prize | -- |
+| 2nd Place Prize | -- |
+| 3rd Place Prize | -- |
+| 4th | -- |
+| 5th | -- |
+| 6th | -- |
+| 7th | -- |
 
 # Time Trial
 
-<br>
+<div style="display: flex; justify-content: center; overflow: hidden;">
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPq17u-L_9NSEtVS3J37GMlZ3JGBlSu4TkMSgK-xYB_cFp-6tnc5_3ztXt6Byrx1rWKJAq5RIWJgzw/pubhtml?gid=1512878667&amp;single=true&amp;widget=true&amp;headers=false" width="1400px" height="800px"></iframe>
+</div>
 
 <!-- <img src="../images/result_tt.png"  style="width: 80%" alt="Time Trial" /> -->
 <!-- <center class="actions">
@@ -30,7 +33,15 @@ base_url: results.html
 
 # Tournament Bracket
 
+<div style="display: flex; justify-content: center; overflow: hidden;">
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPq17u-L_9NSEtVS3J37GMlZ3JGBlSu4TkMSgK-xYB_cFp-6tnc5_3ztXt6Byrx1rWKJAq5RIWJgzw/pubhtml?gid=1373013749&amp;single=true&amp;widget=true&amp;headers=false" width="1400px" height="800px"></iframe>
+</div>
+
 <br>
+
+<div style="display: flex; justify-content: center; overflow: hidden;">
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPq17u-L_9NSEtVS3J37GMlZ3JGBlSu4TkMSgK-xYB_cFp-6tnc5_3ztXt6Byrx1rWKJAq5RIWJgzw/pubhtml?gid=855127259&amp;single=true&amp;widget=true&amp;headers=false" width="1400px" height="800px"></iframe>
+</div>
 
 <!-- <img src="../images/result_bracket.png"  style="width: 80%" alt="Tournament Bracket" /> -->
 <!-- <center class="actions">
