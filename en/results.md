@@ -18,6 +18,17 @@ base_url: results.html
 | 6th | -- |
 | 7th | -- |
 
+<br>
+
+# competition Schedule
+
+<center class="actions">
+	<a href="https://docs.google.com/spreadsheets/d/1Z9CAXd8Nr2z8z33JgYuZ0huU7eVNw4oVAux1UUAqNAc/edit?gid=0#gid=0" class="button">competition schedule</a>
+
+</center>
+
+<br>
+
 # Time Trial
 
 <div style="display: flex; justify-content: center; overflow: hidden;">
