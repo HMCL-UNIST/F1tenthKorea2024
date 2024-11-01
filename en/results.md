@@ -10,13 +10,13 @@ base_url: results.html
 
 | Ranking | Team |
 |:---|:---|
-| 1st Place Prize | -- |
-| 2nd Place Prize | -- |
-| 3rd Place Prize | -- |
-| 4th | -- |
-| 5th | -- |
-| 6th | -- |
-| 7th | -- |
+| 1st Place Prize | Hwakbool |
+| 2nd Place Prize | Tayo Eagles |
+| 3rd Place Prize | U-stang |
+| 4th | DSPlay |
+| 5th | IDEA_LAB |
+| 6th | SSUNG CAR |
+| 7th | LiCS-KI |
 
 <br>
 

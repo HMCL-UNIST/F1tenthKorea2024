@@ -11,13 +11,14 @@ base_url: results.html
 
 | 순위 | 팀 |
 |:---|:---|
-| 1등 | -- |
-| 2등 | -- |
-| 3등 | -- |
-| 4등 | -- |
-| 5등 | -- | 
-| 6등 | -- | 
-| 7등 | -- |
+| 1등 | Hwakbool |
+| 2등 | Tayo Eagles |
+| 3등 | U-stang |
+| 4등 | DSPlay |
+| 5등 | IDEA_LAB | 
+| 6등 | SSUNG CAR | 
+| 7등 | LiCS-KI |
+
 
 <br>
 
