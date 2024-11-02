@@ -9,16 +9,15 @@ base_url: results.html
 # Podium Ceremony
 
 
-| 순위 | 팀 |
-|:---|:---|
-| 1등 | Hwakbool |
-| 2등 | Tayo Eagles |
-| 3등 | U-stang |
-| 4등 | DSPlay |
-| 5등 | IDEA_LAB | 
-| 6등 | SSUNG CAR | 
-| 7등 | LiCS-KI |
-
+| 순위 | 팀 | 부상 |
+|:---|:---|:---|
+| 1등 | Hwakbool | 300만원 |
+| 2등 | Tayo Eagles | 200만원 |
+| 3등 | U-stang | 50만원 |
+| 4등 | DSPlay | 50만원 |
+| 5등 | IDEA_LAB | 50만원 |
+| 6등 | SSUNG CAR | 50만원 | 
+| 7등 | LiCS-KI | 50만원 |
 
 <br>
 

@@ -8,15 +8,15 @@ base_url: results.html
 # Podium Ceremony
 
 
-| Ranking | Team |
-|:---|:---|
-| 1st Place Prize | Hwakbool |
-| 2nd Place Prize | Tayo Eagles |
-| 3rd Place Prize | U-stang |
-| 4th | DSPlay |
-| 5th | IDEA_LAB |
-| 6th | SSUNG CAR |
-| 7th | LiCS-KI |
+| Ranking | Team | Prize |
+|:---|:---|:---|
+| 1st | Hwakbool | 3,000,000 KRW |
+| 2nd | Tayo Eagles | 2,000,000 KRW |
+| 3rd | U-stang | 500,000 KRW |
+| 4th | DSPlay | 500,000 KRW |
+| 5th | IDEA_LAB | 500,000 KRW |
+| 6th | SSUNG CAR | 500,000 KRW |
+| 7th | LiCS-KI | 500,000 KRW |
 
 <br>
 
